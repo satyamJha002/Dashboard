@@ -1,3 +1,4 @@
+![Screenshot 2023-10-17 142440](https://github.com/satyamJha002/Dashboard/assets/123881268/9c53a4a2-8cd7-49d5-bd4b-c8b95c8cea9f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
